@@ -1,2 +1,3 @@
-# soc-lab-threat-detection
-Virtual SOC lab simulating cyber attacks(SQLi, brute force, XSS with detection and log analysis using splunk, Snort and Wireshark. )
+# SOC Lab – Threat Detection & Analysis
+
+Built a virtual Security Operations Centre (SOC) lab to simulate cyber attacks (SQL injection, brute force, and XSS) and detect malicious activity through log analysis and monitoring using Splunk, Snort, and Wireshark.
