@@ -31,15 +31,15 @@ practise detection, triage, and response.
 
 ### Splunk — Attack Statistics Table
 Shows 128 events captured, filtered by signature, severity, source and destination IP.
-![Statistics Table](statistics-table.png)
+![Statistics Table](screenshots/statistics-table.png)
 
 ### Splunk — Dashboard
 Custom dashboard visualising alerts over time by severity.
-![Splunk Dashboard](Splunk-dashboard.png)
+![Splunk Dashboard](screenshots/Splunk-dashboard.png)
 
 ### Apache Access Log — Brute Force Detection
 Real-time log review capturing nmap scan and fuzzing attempts.
-![Access Log Brute Force](access-log-bruteforce.png)
+![Access Log Brute Force](screenshots/access-log-bruteforce.png)
 
 ## Key Outcomes
 
