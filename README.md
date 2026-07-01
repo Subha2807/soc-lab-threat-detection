@@ -1,5 +1,3 @@
-# SOC Lab – Threat Detection & Analysis
-
 # SOC Lab — Threat Detection & Incident Response
 
 A virtual Security Operations Centre built during my MSc Cybersecurity 
